@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">Source code for Talismans, a premium spigot plugin.</h4>
+<h4 align="center">TEST for Talismans, a premium spigot plugin.</h4>
 
 <p align="center">
     <a href="https://polymart.org/resource/1-16-1-17-talismans.611">
